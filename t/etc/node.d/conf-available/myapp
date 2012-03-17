@@ -1,0 +1,6 @@
+APPDIR = /var/www/myapp.js/server.js
+LISTEN = net
+PORT = 9000
+NODE_USER = www-data
+NODE_BIN = /usr/bin/node
+NODE_ARGS = 
